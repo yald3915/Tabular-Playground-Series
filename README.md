@@ -1,6 +1,6 @@
-This file is the baseline code for Tabular Playground Series - Nov 2022--Practice your ML skills on this approachable dataset!
+This file is the baseline code for Tabular Playground Series -Practice your ML skills on this approachable dataset!
 
-以上文件是Tabular Playground Series - Nov 2022--Practice your ML skills on this approachable dataset!（模型融合大赛）比赛的baseline代码
+以上文件是Tabular Playground Series -Practice your ML skills on this approachable dataset!（模型融合大赛）比赛的baseline代码
 
 ⭐Please star to download the file
 
